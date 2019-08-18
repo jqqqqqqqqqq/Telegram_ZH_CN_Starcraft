@@ -1,4 +1,5 @@
-// Notifications
+
+
 "PUSH_ENCRYPTION_REQUEST" = "新建卡拉点对点通讯%1$@";
 "PUSH_ENCRYPTION_ACCEPT" = "您的卡拉通讯请求已被接受%1$@";
 "PUSH_PINNED_POLL" = "%1$@|置顶了一项投票";
@@ -8,7 +9,8 @@
 "PUSH_CHAT_PHOTO_EDITED" = "%2$@|%1$@ 变更了舰队头像";
 "PUSH_CHAT_LEFT" = "%2$@|%1$@ 离开了舰队";
 "PUSH_PINNED_POLL" = "%1$@|置顶了一项投票";
-// Common
+
+
 "Common.OK" = "确定";
 "Common.Cancel" = "取消";
 "Common.Edit" = "编辑";
@@ -28,16 +30,19 @@
 "Common.Search" = "搜索";
 "Common.More" = "更多";
 "Common.Select" = "选择";
-// State
+
+
 "State.Connecting" = "卡拉连接中…";
 "State.connecting" = "卡拉连接中";
 "State.ConnectingToProxy" = "正在躲避埃蒙审查…";
 "State.ConnectingToProxyInfo" = "点击此处以设置";
 "State.Updating" = "卡拉同步中…";
 "State.WaitingForNetwork" = "等待卡拉同步";
-// Presence
+
+
 "Presence.online" = "就位";
-// Date
+
+
 "Month.GenJanuary" = "1月";
 "Month.GenFebruary" = "2月";
 "Month.GenMarch" = "3月";
@@ -74,12 +79,18 @@
 "Time.TodayAt" = "今天 %@";
 "Time.YesterdayAt" = "昨天 %@";
 "LastSeen.JustNow" = "连线于不久前";
- //three to ten
- //one
- //two
- //three to ten
- // more than ten
-"LastSeen.MinutesAgo_any" = "最近连线于 %@ 分钟前"; // more than ten
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+"LastSeen.MinutesAgo_any" = "最近连线于 %@ 分钟前"; 
+
 "LastSeen.HoursAgo_any" = "最近连线于 %@ 小时前";
 "LastSeen.YesterdayAt" = "最近连线于昨天 %@";
 "LastSeen.AtDate" = "最近连线于%@";
@@ -91,7 +102,8 @@
 "Date.DialogDateFormat" = "{month} {day}日";
 "Date.ChatDateHeader" = "%1$@ %2$@";
 "Date.ChatDateHeaderYear" = "%3$@ 年 %1$@ %2$@";
-// Tour
+
+
 "Tour.Title1" = "Telegram（F2）";
 "Tour.Text1" = "世界上**最快的**聊天工具\n**免费**又**安全**";
 "Tour.Title2" = "快速";
@@ -105,7 +117,8 @@
 "Tour.Title6" = "免费";
 "Tour.Text6" = "**Telegram（F2）** 永久免费、无广告\n不收取任何费用。";
 "Tour.StartButton" = "开启卡拉";
-// Login
+
+
 "Login.PhoneAndCountryHelp" = "请确认您的国际电话区号并输入您的手机号码。";
 "Login.CodeSentInternal" = "我们已向您其它设备上的 **Telegram** 应用发送了一条带有验证码的消息";
 "Login.HaveNotReceivedCodeInternal" = "未收到验证码？";
@@ -136,9 +149,11 @@
 "Login.InfoLastNamePlaceholder" = "姓氏";
 "Login.InfoDeletePhoto" = "删除头像";
 "Login.InfoHelp" = "输入您的姓名并添加头像。";
-// Login.SelectCountry
+
+
 "Login.SelectCountry.Title" = "国家/地区";
-// Dialog List
+
+
 "DialogList.TabTitle" = "卡拉会话";
 "DialogList.Title" = "卡拉会话";
 "DialogList.SearchLabel" = "搜索最强指挥官";
@@ -159,7 +174,8 @@
 "DialogList.EncryptionProcessing" = "交换加密密钥中…";
 "DialogList.EncryptedChatStartedOutgoing" = "%@ 加入了您的私密卡拉会话。";
 "DialogList.EncryptedChatStartedIncoming" = "%@ 创建了私密卡拉会话。";
-// Compose
+
+
 "Compose.TokenListPlaceholder" = "您想要同谁联系？";
 "Compose.NewMessage" = "新建卡拉会话";
 "Compose.NewGroup" = "新建舰队";
@@ -167,7 +183,8 @@
 "Compose.NewEncryptedChat" = "新建私密卡拉会话";
 "Compose.NewEncryptedChatTitle" = "新建私密卡拉会话";
 "Compose.Create" = "创建";
-// Contacts
+
+
 "Contacts.TabTitle" = "联系人";
 "Contacts.Title" = "联系人";
 "Contacts.FailedToSendInvitesMessage" = "发生错误。";
@@ -178,7 +195,8 @@
 "Contacts.InviteToTelegram" = "邀请到 Telegram";
 "Contacts.InviteFriends" = "邀请朋友";
 "Contacts.SelectAll" = "全选";
-// Conversation
+
+
 "Conversation.InputTextPlaceholder" = "传输消息";
 "Conversation.typing" = "传输中";
 "Conversation.MessageDeliveryFailed" = "您的消息未发送成功，点击“重新发送”可再次发送。";
@@ -208,7 +226,8 @@
 "Conversation.Contact" = "联系人信息";
 "Conversation.BlockUser" = "拉黑此星灵";
 "Conversation.UnblockUser" = "将此星灵移出黑名单";
-"Conversation.UnsupportedMedia" = "您当前的 Telegram 版本无法查看此消息。请前往这里下载新版：https://telegram.org/update";
+"Conversation.UnsupportedMedia" = "您当前的 Telegram 版本无法查看此消息。";
+
 "Conversation.EncryptionWaiting" = "等待 %@ 连线…";
 "Conversation.EncryptionProcessing" = "交换加密密钥中…";
 "Conversation.EmptyPlaceholder" = "暂无消息…";
@@ -226,7 +245,8 @@
 "Conversation.StatusMembers_any" = "%@ 人口";
 "Conversation.StatusOnline_any" = "%@ 人在线";
 "Conversation.UnreadMessages" = "未读消息";
-// Notification
+
+
 "Notification.RenamedChat" = "%@ 更改了舰队名称";
 "Notification.RenamedChannel" = "频道名称已更改";
 "Notification.ChangedGroupPhoto" = "%@ 更换了舰队头像";
@@ -260,7 +280,8 @@
 "Notification.Exceptions.NewException" = "新建例外";
 "Notification.Exceptions.NewException.NotificationHeader" = "通知";
 "Notification.Exceptions.Sound" = "声音： %@";
-// Message
+
+
 "Message.Photo" = "图片";
 "Message.Video" = "视频";
 "Message.Location" = "位置信息";
@@ -270,7 +291,8 @@
 "Message.Audio" = "语音消息";
 "Message.ForwardedMessage" = "转发的消息\n来自：%@";
 "Message.Animation" = "GIF 动态图";
-// Conversation Profile
+
+
 "ConversationProfile.ErrorCreatingConversation" = "发生错误";
 "ConversationProfile.UnknownAddMemberError" = "抱歉，遇到了一个意外问题。我们的相位技师正在启动重构光束。";
 "ConversationProfile.UsersTooMuchError" = "抱歉，补给已达上限。无法折跃更多部队。";
@@ -287,12 +309,14 @@
 "Conversation.SlideToCancel" = "滑动以取消";
 "Conversation.ApplyLocalization" = "执行本地化";
 "Conversation.OpenFile" = "打开文件";
-// Media Picker
+
+
 "MediaPicker.Send" = "发送";
 "SearchImages.Title" = "相册";
 "MediaPicker.CameraRoll" = "相机胶卷";
 "SearchImages.NoImagesFound" = "没有符合条件的图片";
-// User Profile
+
+
 "Profile.CreateEncryptedChatError" = "发生错误。";
 "Profile.CreateNewContact" = "新建联系人信息";
 "Profile.AddToExisting" = "添加到现有的联系人信息";
@@ -305,7 +329,8 @@
 "Profile.MessageLifetime1d" = "1 天";
 "Profile.MessageLifetime1w" = "1 周";
 "Profile.ShareContactButton" = "分享联系人信息";
-// User Info
+
+
 "UserInfo.Title" = "个人信息";
 "UserInfo.FirstNamePlaceholder" = "名字";
 "UserInfo.LastNamePlaceholder" = "姓氏";
@@ -323,13 +348,17 @@
 "UserInfo.NotificationsEnable" = "启用";
 "UserInfo.NotificationsDisable" = "禁用";
 "UserInfo.Invite" = "邀请使用 Telegram";
-// New Contact
+
+
 "NewContact.Title" = "新建联系人";
-// Phone Label
+
+
 "PhoneLabel.Title" = "标签";
-// Secret Chat
+
+
 "SecretChat.Title" = "私密卡拉会话";
-// Group Info
+
+
 "GroupInfo.Title" = "舰队信息";
 "GroupInfo.GroupNamePlaceholder" = "舰队名称";
 "GroupInfo.SetGroupPhoto" = "设置舰队头像";
@@ -346,29 +375,37 @@
 "GroupInfo.AddParticipantTitle" = "联系人";
 "GroupInfo.AddParticipantConfirmation" = "添加“%@”到此舰队？";
 "GroupInfo.LeftStatus" = "您已退出此舰队";
-// Encryption Key
+
+
 "EncryptionKey.Title" = "加密密钥";
 "EncryptionKey.Description" = "这是您与“%1$@”私密卡拉会话加密密钥的可视化图片。\n\n如果这张图片看起来和“%2$@”设备上的图片完全一致，端到端加密则是安全的。\n\n了解详情请前往 telegram.org 的 FAQ";
-// Conversation media
+
+
 "ConversationMedia.Title" = "媒体";
-// Preview
+
+
 "Preview.DeletePhoto" = "删除图片";
 "Preview.SaveToCameraRoll" = "保存到相机胶卷";
-// Map
+
+
 "Map.ChooseLocationTitle" = "位置信息";
 "Map.Map" = "地图";
 "Map.Satellite" = "卫星图像";
 "Map.Hybrid" = "混合";
 "Map.GetDirections" = "获取导航";
 "Map.OpenInGoogleMaps" = "在 Google 地图中打开";
-// Web
+
+
 "Web.Error" = "无法加载页面";
 "Web.OpenExternal" = "在 Safari 中打开";
-// Document
+
+
 "Document.TargetConfirmationFormat" = "发送文件 ({size}) 给 {target}？";
-// Dialog List
+
+
 "DialogList.You" = "您自己";
-// Settings
+
+
 "Settings.SetProfilePhoto" = "设置头像";
 "Settings.Logout" = "退出";
 "Settings.Title" = "设置";
@@ -379,10 +416,12 @@
 "Settings.Support" = "向我们提问";
 "Settings.FAQ" = "Telegram 常见问题";
 "Settings.FAQ_URL" = "https://telegram.org/faq#general-questions";
+
 "Settings.FAQ_Intro" = "请注意：Telegram 的技术支持由志愿者提供。我们会尽快回复，但仍可能需要等待一段时间。\n\n请前往“常见问题”看看：那里有各种常见问题和故障排除指南。";
 "Settings.FAQ_Button" = "常见问题";
 "Settings.SaveIncomingPhotos" = "自动保存图片";
-// Notifications and Sounds
+
+
 "Notifications.Title" = "通知";
 "Notifications.MessageNotifications" = "消息通知";
 "Notifications.MessageNotificationsAlert" = "提醒";
@@ -412,7 +451,8 @@
 "Notifications.Reset" = "重置";
 "Notifications.ResetAllNotifications" = "重置所有通知策略";
 "Notifications.ResetAllNotificationsHelp" = "撤消您对所有联系人、舰队和频道的自定义通知设置。";
-// Chat Settings
+
+
 "ChatSettings.Title" = "数据和存储";
 "ChatSettings.Appearance" = "显示效果";
 "ChatSettings.TextSize" = "字号大小";
@@ -421,12 +461,14 @@
 "ChatSettings.AutomaticAudioDownload" = "自动下载音频";
 "ChatSettings.PrivateChats" = "私聊";
 "ChatSettings.Groups" = "舰队";
-// Usage
+
+
 "Cache.Title" = "存储使用情况";
 "Cache.ClearCache" = "清空缓存";
 "Cache.KeepMedia" = "媒体文件保留时间";
 "Cache.Help" = "为节省储存空间，此期限内您**没有使用过**的缓存文件都会被删除。这包括您消息记录中的图片、视频或其它文件。\n\n但这些文件都会保留在 Telegram 云端，您需要时可再次下载。";
-// Blocked Users
+
+
 "BlockedUsers.Title" = "已拉黑";
 "BlockedUsers.SelectUserTitle" = "拉黑此星灵";
 "BlockedUsers.BlockUser" = "拉黑此星灵";
@@ -435,7 +477,8 @@
 "BlockedUsers.Info" = "您拉黑的星灵将无法向您发送消息，或邀请您加入舰队。他们也无法看到您的头像、在线状态及最后连线时间。";
 "BlockedUsers.AddNew" = "添加新的…";
 "BlockedUsers.Unblock" = "解除";
-// Wallpaper
+
+
 "Wallpaper.Title" = "聊天背景";
 "Wallpaper.PhotoLibrary" = "照片图库";
 "Wallpaper.Set" = "设置";
@@ -510,7 +553,8 @@
 "PrivacyLastSeenSettings.NeverShareWith.Placeholder" = "选择无法看见您连线时间的星灵…";
 "PrivacyLastSeenSettings.EmpryUsersPlaceholder" = "添加星灵";
 "PrivacyLastSeenSettings.AddUsers_any" = "添加 %@ 位星灵到此列表？";
-// Photo Editor
+
+
 "PhotoEditor.DiscardChanges" = "放弃修改";
 "PhotoEditor.Original" = "原图";
 "PhotoEditor.CropReset" = "重置";
@@ -530,7 +574,8 @@
 "PhotoEditor.BlurToolOff" = "关闭";
 "PhotoEditor.BlurToolRadial" = "圆形";
 "PhotoEditor.BlurToolLinear" = "线性";
-// Camera
+
+
 "Camera.PhotoMode" = "拍照";
 "Camera.VideoMode" = "录像";
 "Camera.SquareMode" = "正方形";
@@ -614,7 +659,8 @@
 "DialogList.SearchSectionDialogs" = "卡拉会话和联系人";
 "DialogList.SearchSectionGlobal" = "全局搜索";
 "DialogList.SearchSectionMessages" = "消息";
-"Username.LinkHint" = "通过此折跃门可以与您进行卡拉会话：[\nhttps://t.me/%@]";
+"Username.LinkHint" = "通过此折跃门可以与您进行卡拉会话：[https://t.me/%@]";
+
 "Username.LinkCopied" = "折跃门已复制到剪贴板";
 "SharedMedia.DeleteItemsConfirmation_any" = "删除 %@ 个媒体文件？";
 "PrivacySettings.Passcode" = "密码锁";
@@ -836,7 +882,8 @@
 "Channel.Edit.LinkItem" = "折跃门";
 "Channel.Username.Title" = "折跃门";
 "Channel.Username.Help" = "您可以在 **Telegram** 上为频道设置一个名称。设置后，别人将能够通过此名称找到您的频道。\n\n您可以使用 **a-z**、**0-9** 和下划线。最小长度为 **5** 个字符。";
-"Channel.Username.LinkHint" = "通过这个折跃门可以打开您的频道：[\nhttps://t.me/%@]";
+"Channel.Username.LinkHint" = "通过这个折跃门可以打开您的频道：[https://t.me/%@]";
+
 "Channel.Username.InvalidTooShort" = "星灵名必须包含至少 5 个字符。";
 "Channel.Username.InvalidStartsWithNumber" = "星灵名不能以数字开头。";
 "Channel.Username.InvalidCharacters" = "抱歉，此星灵名不符合规范。";
@@ -1282,7 +1329,8 @@
 "Call.Minutes_any" = "%@ 分钟";
 "Call.ShortSeconds_any" = "%@ 秒";
 "Call.ShortMinutes_any" = "%@ 分";
-"Notification.CallTimeFormat" = "%1$@（%2$@）"; // 1 - type, 2 - duration
+"Notification.CallTimeFormat" = "%1$@（%2$@）"; 
+
 "Notification.CallOutgoing" = "拨出";
 "Notification.CallIncoming" = "来电";
 "Notification.CallMissed" = "未接";
@@ -1291,7 +1339,8 @@
 "Notification.CallIncomingShort" = "来电";
 "Notification.CallMissedShort" = "未接";
 "Notification.CallCanceledShort" = "挂断";
-"Notification.CallFormat" = "%1$@, %2$@"; // 1 - time, 2 - duration
+"Notification.CallFormat" = "%1$@, %2$@"; 
+
 "Call.ConnectionErrorTitle" = "无法呼叫";
 "Call.ConnectionErrorMessage" = "请检查您的互联网连接并重试。";
 "Call.CallAgain" = "再次呼叫";
@@ -1626,6 +1675,7 @@
 "SocksProxySetup.UseForCalls" = "对通话启用卡拉中继点";
 "SocksProxySetup.UseForCallsHelp" = "使用卡拉中继点服务器可能降低通话质量。";
 "InviteText.URL" = "https://telegram.org/dl";
+
 "InviteText.SingleContact" = "嗨，我在使用 Telegram 聊天。加入我们吧！从这里下载：%@";
 "InviteText.ContactsCountText_any" = "嗨，我在和另外 %@ 位联系人使用 Telegram 聊天。加入我们吧！从这里下载：{url}";
 "Invite.LargeRecipientsCountWarning" = "请注意，发送所有的邀请将花费一些时间。";
@@ -1710,12 +1760,18 @@
 "Conversation.LiveLocationMembersCount_any" = "和其他 %@ 人";
 "Conversation.Admin" = "仲裁官";
 "LiveLocationUpdated.JustNow" = "刚刚更新";
- //three to ten
- //one
- //two
- //three to ten
- // more than ten
-"LiveLocationUpdated.MinutesAgo_any" = "更新于 %@ 分钟前"; // more than ten
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+"LiveLocationUpdated.MinutesAgo_any" = "更新于 %@ 分钟前"; 
+
 "LiveLocationUpdated.TodayAt" = "上次更新：%@";
 "LiveLocation.MenuChatsCount_any" = "您正在与 %@ 个卡拉会话共享实时位置信息。";
 "LiveLocation.MenuStopAll" = "全部停止";
@@ -1926,6 +1982,7 @@
 "Passport.InfoText" = "使用 Telegram 通行证， 你可以轻易注册需要个人信息验证的网站。\n\n您的信息、个人数据与文件都会通过端到端加密传输。包括 Telegram 在内的任何人必须经过您的允许才能访问您的信息。";
 "Passport.InfoLearnMore" = "了解更多";
 "Passport.InfoFAQ_URL" = "https://telegram.org/faq#passport";
+
 "Passport.PassportInformation" = "通行证信息";
 "Passport.RequestedInformation" = "所需信息";
 "Passport.FieldIdentity" = "身份文件";
@@ -2432,12 +2489,9 @@
 "LogoutOptions.ContactSupportText" = "请告诉我们问题所在；退出无法解决此问题。";
 
 
-"AppUpgrade.Running" = "Optimizing Telegram...
-This may take a while, depending on the size of the database. Please keep the app open until the process is finished.
-Sorry for the inconvenience.";
+"AppUpgrade.Running" = "Optimizing Telegram...\nThis may take a while, depending on the size of the database. Please keep the app open until the process is finished.\nSorry for the inconvenience.";
 
-"Channel.DiscussionGroup.PrivateChannelLink" = "Do you want to make %1$@ the discussion board for %2$@?
-Any member of this group will be able to see messages in the channel.";
+"Channel.DiscussionGroup.PrivateChannelLink" = "Do you want to make %1$@ the discussion board for %2$@?\nAny member of this group will be able to see messages in the channel.";
 "Conversation.BlockUser" = "拉黑此星灵";
 
 
@@ -2496,6 +2550,7 @@ Any member of this group will be able to see messages in the channel.";
 "LOCKED_MESSAGE" = "您有一条新消息 %1$@";
 "Login.CallRequestState1" = "Telegram 会在 %d:%.2d 后使用电话语音播放验证码";
 "Login.PRIVACY_URL" = "https://telegram.org/privacy";
+
 "Login.SmsRequestState1" = "Telegram 将会在 %d:%.2d 后给您发送短信";
 "MESSAGES" = "%1$@ 给您发送了 %2$@ 条消息";
 "MESSAGE_AUDIO" = "%1$@ 给您发送了一条语音消息";
